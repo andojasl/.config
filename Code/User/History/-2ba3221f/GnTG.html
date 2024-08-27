@@ -1,0 +1,7 @@
+<div class="color-picker-container">
+    <div class="color-preview" [style.background]="selectedColor"></div>
+    <input type="text" placeholder="HEX color" [(colorPicker)]="selectedColor" (input)="onInputChange()" />
+    <app-color-picker [selectedColor]="selectedColor" (onChange)="onColorChange($event)"></app-color-picker>
+</div>
+
+  

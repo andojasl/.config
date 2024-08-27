@@ -1,0 +1,120 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DBS2_demo" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2lrxxclzq7zei">
+      <file current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/SQLite/databaseScript.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-101">
+              <caret line="2" column="20" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$USER_HOME$/Downloads/SQLite/queries.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="43">
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "SQL": {
+      "usageCount": 3,
+      "lastUsed": 1713821077296
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1713821077296" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DBS2_demo" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="dir{file:///home/andojas/Documents/DBS2_demo}" type="377199ff:AttachableProjectViewPane$1$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Database" order="0" visible="true" weight="0.32983577" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.32983577" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32983577" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+      <unified_weights left="0.32983577" right="0.32983577" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Project</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1713821076881">
+      <screen x="0" y="0" width="1128" height="752" />
+    </state>
+    <state x="164" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1128.752@0.0.1128.752" timestamp="1713821076881" />
+    <state x="352" y="169" key="FileChooserDialogImpl" timestamp="1713821074867">
+      <screen x="0" y="0" width="1128" height="752" />
+    </state>
+    <state x="352" y="169" key="FileChooserDialogImpl/0.0.1128.752@0.0.1128.752" timestamp="1713821074867" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/SQLite/databaseScript.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3aa42b4c-73ac-4428-873e-4622a446461b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SQLite/queries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/andojas/Documents/dahu"
+		},
+		{
+			"name": "INES_prj",
+			"path": "/home/andojas/Documents/PlatformIO/Projects/INES_prj"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	}
+}

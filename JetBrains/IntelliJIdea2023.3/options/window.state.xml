@@ -1,0 +1,37 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1128.752" width="1014" height="370" />
+    <size key="GridCell.Tab.0.center.0.0.1128.752" width="1014" height="370" />
+    <size key="GridCell.Tab.0.right.0.0.1128.752" width="1014" height="370" />
+    <size key="GridCell.Tab.0.bottom.0.0.1128.752" width="1014" height="370" />
+    <size key="GridCell.Tab.1.left.0.0.1128.752" width="1014" height="-12" />
+    <size key="GridCell.Tab.1.center.0.0.1128.752" width="1014" height="-12" />
+    <size key="GridCell.Tab.1.right.0.0.1128.752" width="1014" height="-12" />
+    <size key="GridCell.Tab.1.bottom.0.0.1128.752" width="1014" height="-12" />
+    <size key="GridCell.Tab.0.left.0.0.1410.940" width="1296" height="243" />
+    <size key="GridCell.Tab.0.center.0.0.1410.940" width="1296" height="243" />
+    <size key="GridCell.Tab.0.right.0.0.1410.940" width="1296" height="243" />
+    <size key="GridCell.Tab.0.bottom.0.0.1410.940" width="1296" height="243" />
+    <size key="GridCell.Tab.1.left.0.0.1410.940" width="1328" height="51" />
+    <size key="GridCell.Tab.1.center.0.0.1410.940" width="1328" height="51" />
+    <size key="GridCell.Tab.1.right.0.0.1410.940" width="1328" height="51" />
+    <size key="GridCell.Tab.1.bottom.0.0.1410.940" width="1328" height="51" />
+  </component>
+  <component name="WindowManager">
+    <frame x="710" y="60" width="684" height="864" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="352" y="171" key="FileChooserDialogImpl" timestamp="1710255696569">
+      <screen x="0" y="0" width="1128" height="752" />
+    </state>
+    <state x="352" y="171" key="FileChooserDialogImpl/0.0.1128.752" timestamp="1710255696569" />
+    <state width="577" height="207" key="ShowUsagesActions.dimensionServiceKey" timestamp="1710784731813">
+      <screen x="0" y="0" width="1128" height="752" />
+    </state>
+    <state width="577" height="207" key="ShowUsagesActions.dimensionServiceKey/0.0.1128.752" timestamp="1710784731813" />
+    <state x="164" y="62" width="800" height="672" key="new project wizard" timestamp="1710255736917">
+      <screen x="0" y="0" width="1128" height="752" />
+    </state>
+    <state x="164" y="62" width="800" height="672" key="new project wizard/0.0.1128.752" timestamp="1710255736917" />
+  </component>
+</application>

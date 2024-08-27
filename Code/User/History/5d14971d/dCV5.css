@@ -1,0 +1,72 @@
+/* generate-color-scheme.component.css */
+.color-scheme-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Stack elements vertically */
+    height: 100vh;
+    gap: 20px;
+  }
+  .color-blocks{
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+  }
+  p{
+    margin: 20px;
+  }
+  
+  button{
+    border: none;
+    background-color: transparent;
+    border: none;
+  }
+  .color-box-input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .joined{
+    display: flex;
+    flex-direction: row;
+  }
+  input[type="text"] {
+    align-self: left;
+    border: 2px solid grey;
+    border-radius: 1px;
+    width: 100px;
+    margin-bottom: 20px;
+  }
+
+  .generate-btn{
+    align-self:flex-end;
+  }
+  .color-block {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+  }
+  .color-box {
+    align-self: left;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    border: 2px solid grey;
+    border-radius: 2px;
+  }
+  
+  .color-preview {
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+  }
+  

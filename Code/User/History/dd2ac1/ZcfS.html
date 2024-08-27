@@ -1,0 +1,14 @@
+
+<mat-sidenav-container class="example-container">
+    <mat-sidenav class="sidenav" opened mode="side">
+        <h1>dahu</h1>
+        <mat-nav-list>
+            <ul>
+                <li><a><app-create-theme></app-create-theme> Theme</a></li>
+                <li><a [routerLink]="['/generate-theme']">Generate Theme</a></li>
+                <li><a [routerLink]="['/generate-from-pic']">Generate from Pic</a></li>
+                <li><a [routerLink]="['/library']">Library</a></li>
+            </ul>
+        </mat-nav-list>
+    </mat-sidenav>
+</mat-sidenav-container>

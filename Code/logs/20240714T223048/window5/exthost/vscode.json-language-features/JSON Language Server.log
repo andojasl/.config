@@ -1,0 +1,6 @@
+2024-07-14 22:41:26.380 [info] Debugger listening on ws://127.0.0.1:6335/b02406a1-83d7-4beb-bc33-cee4f60a3855
+For help, see: https://nodejs.org/en/docs/inspector
+
+2024-07-14 22:59:21.819 [info] [Error - 10:59:21 PM] Server process exited with signal SIGTERM.
+2024-07-14 22:59:21.820 [info] [Info  - 10:59:21 PM] Connection to server got closed. Server will restart.
+2024-07-14 22:59:21.820 [info] true

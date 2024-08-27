@@ -1,0 +1,20 @@
+2024-07-28 20:13:01.893 [info] Extension host with pid 30860 started
+2024-07-28 20:13:01.893 [info] Skipping acquiring lock for /home/andojas/.config/Code/User/workspaceStorage/c1504371bec39be725b0bbbc0e25b337.
+2024-07-28 20:13:01.902 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-28 20:13:01.914 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-07-28 20:13:02.224 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-28 20:13:02.273 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-28 20:13:02.325 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-28 20:13:02.394 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-07-28 20:13:02.394 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-07-28 20:13:02.401 [info] Eager extensions activated
+2024-07-28 20:13:02.414 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-28 20:13:02.417 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-28 20:13:02.429 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-07-28 20:13:02.450 [info] ExtensionService#_doActivateExtension undefined_publisher.dahu, startup: false, activationEvent: 'onStartupFinished'
+2024-07-28 20:13:02.577 [warning] [dbaeumer.vscode-eslint] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'eslint.nodeEnv', provide the URI of a resource or 'null' for any resource.
+2024-07-28 20:13:02.599 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-28 20:13:02.610 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-28 20:13:02.644 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-28 20:13:05.778 [warning] undefined_publisher.dahu created a webview without a content security policy: https://aka.ms/vscode-webview-missing-csp
+2024-07-28 20:13:40.331 [warning] DiagnosticCollection with name '/home/andojas/Documents/semester4_notes/OSCO/assignments' does already exist.

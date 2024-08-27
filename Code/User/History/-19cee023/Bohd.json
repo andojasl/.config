@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ESP",
+			"path": "/home/andojas/Documents/PlatformIO/Projects/ESP"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	}
+}

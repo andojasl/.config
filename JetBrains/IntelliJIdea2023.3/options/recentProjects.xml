@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/03-sorting-andojasl/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Main.java" projectWorkspaceId="2daopxESVxylohHBbyQkzJb8SIp">
+              <option name="activationTimestamp" value="1710255791435" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="16" y="60" width="1096" height="676" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1710255738098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/03-sorting-andojasl/assignment">
+          <value>
+            <RecentProjectMetaInfo frameTitle="assignment – QuickSorter.java" opened="true" projectWorkspaceId="2daowrb2sTGnCtIeakzig2LFkis">
+              <option name="activationTimestamp" value="1717227937772" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="0" width="1128" height="752" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1710412012024" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/03-sorting-Tozzettini/assignment">
+          <value>
+            <RecentProjectMetaInfo frameTitle="assignment [~/Downloads/03-sorting-Tozzettini/assignment] – quickSort.java" opened="true" projectWorkspaceId="2hFTWIPX35VZWuYbC2cxUre8yd3">
+              <option name="activationTimestamp" value="1717227713765" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14475.28" />
+              <option name="buildTimestamp" value="1707800520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="710" y="60" width="684" height="864" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1717188855679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/03-sorting-andojasl/assignment" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Downloads/03-sorting-Tozzettini" />
+  </component>
+</application>

@@ -1,0 +1,19 @@
+.color-box {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+  }
+  
+  input[type="text"] {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  .color-boxes{
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+  }
+  

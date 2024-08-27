@@ -1,0 +1,239 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="assignment" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/factory/quickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1276">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/factory/MyDoubleLinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-682">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/factory/SortingServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/factory/DoubleLinkedListSortingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="4" lastUsed="1717188940553" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/factory/DoubleLinkedListSortingTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1717188940553" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/main/java/factory}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/andojas/Downloads/03-sorting-Tozzettini/assignment/src/test/java/factory}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.DoubleLinkedListSortingTest.testSortWithInteger23" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DoubleLinkedListSortingTest_testSortWithInteger23 - 2024.05.31 at 23h 56m 42s.xml">
+      <configuration name="DoubleLinkedListSortingTest.testSortWithInteger23" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleLinkedListSortingTest_testSortWithInteger23 - 2024.05.31 at 23h 56m 59s.xml">
+      <configuration name="DoubleLinkedListSortingTest.testSortWithInteger23" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="768000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364296" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3304398" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3304398" left="0.16364296" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1296" height="243" key="GridCell.Tab.0.bottom" timestamp="1717227937768">
+      <screen x="0" y="0" width="1410" height="940" />
+    </state>
+    <state width="1296" height="243" key="GridCell.Tab.0.bottom/0.0.1410.940@0.0.1410.940" timestamp="1717227937768" />
+    <state width="1296" height="243" key="GridCell.Tab.0.center" timestamp="1717227937768">
+      <screen x="0" y="0" width="1410" height="940" />
+    </state>
+    <state width="1296" height="243" key="GridCell.Tab.0.center/0.0.1410.940@0.0.1410.940" timestamp="1717227937768" />
+    <state width="1296" height="243" key="GridCell.Tab.0.left" timestamp="1717227937768">
+      <screen x="0" y="0" width="1410" height="940" />
+    </state>
+    <state width="1296" height="243" key="GridCell.Tab.0.left/0.0.1410.940@0.0.1410.940" timestamp="1717227937768" />
+    <state width="1296" height="243" key="GridCell.Tab.0.right" timestamp="1717227937768">
+      <screen x="0" y="0" width="1410" height="940" />
+    </state>
+    <state width="1296" height="243" key="GridCell.Tab.0.right/0.0.1410.940@0.0.1410.940" timestamp="1717227937768" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/factory/MyDoubleLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/factory/SortingServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/factory/DoubleLinkedListSortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/quickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1276">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

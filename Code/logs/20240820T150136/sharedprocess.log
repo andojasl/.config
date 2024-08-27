@@ -1,0 +1,248 @@
+2024-08-20 15:01:41.138 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.147 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.265 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.327 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.604 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.654 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.695 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.906 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:41.967 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:42.062 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:42.200 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:43.367 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:43.470 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:43.474 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:44.081 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:45.847 [info] Getting Manifest... angular.ng-template
+2024-08-20 15:01:45.848 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-08-20 15:01:45.849 [info] Getting Manifest... ms-vscode.cpptools
+2024-08-20 15:01:45.849 [info] Getting Manifest... redhat.java
+2024-08-20 15:01:45.850 [info] Getting Manifest... vscjava.vscode-java-pack
+2024-08-20 15:01:45.850 [info] Getting Manifest... vscjava.vscode-java-test
+2024-08-20 15:01:46.129 [info] Installing extension: redhat.java {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-20 15:01:46.143 [info] Installing extension: angular.ng-template {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-20 15:01:46.144 [info] Installing extension: vscjava.vscode-java-pack {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-20 15:01:46.146 [info] Installing extension: ms-vscode.cmake-tools {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-20 15:01:46.146 [info] Installing extension: vscjava.vscode-java-test {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-20 15:01:46.148 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:46.169 [info] Installing extension: ms-vscode.cpptools {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-20 15:01:46.200 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:46.233 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:46.246 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:46.749 [info] Getting Manifest... vscjava.vscode-gradle
+2024-08-20 15:01:46.810 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:46.819 [info] Installing extension: vscjava.vscode-gradle {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/andojas/.vscode/extensions/extensions.json","path":"/home/andojas/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"context":{"dependecyOrPackExtensionInstall":true}}
+2024-08-20 15:01:46.827 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:47.571 [info] Extension signature verification result for ms-vscode.cmake-tools: UnknownError. Executed: true. Duration: 14ms.
+2024-08-20 15:01:47.699 [info] Getting Manifest... redhat.java
+2024-08-20 15:01:47.709 [info] Getting Manifest... vscjava.vscode-java-debug
+2024-08-20 15:01:47.730 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:47.742 [info] Waiting for already requested installing extension redhat.java vscjava.vscode-java-test vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:01:47.752 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:47.824 [info] Extracted extension to file:///home/andojas/.vscode/extensions/ms-vscode.cmake-tools-1.18.44: ms-vscode.cmake-tools
+2024-08-20 15:01:47.828 [info] Renamed to /home/andojas/.vscode/extensions/ms-vscode.cmake-tools-1.18.44
+2024-08-20 15:01:47.830 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:47.840 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:47.843 [info] Marked extension as uninstalled ms-vscode.cmake-tools-1.18.43
+2024-08-20 15:01:47.844 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:47.849 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:01:47.910 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-20 15:01:48.439 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:49.159 [info] Extension signature verification result for vscjava.vscode-java-pack: UnknownError. Executed: true. Duration: 7ms.
+2024-08-20 15:01:49.206 [info] Extracted extension to file:///home/andojas/.vscode/extensions/vscjava.vscode-java-pack-0.29.0: vscjava.vscode-java-pack
+2024-08-20 15:01:49.207 [info] Renamed to /home/andojas/.vscode/extensions/vscjava.vscode-java-pack-0.29.0
+2024-08-20 15:01:49.218 [info] Marked extension as uninstalled vscjava.vscode-java-pack-0.27.0
+2024-08-20 15:01:49.219 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:49.286 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-20 15:01:49.301 [info] Extension signature verification result for vscjava.vscode-java-test: UnknownError. Executed: true. Duration: 6ms.
+2024-08-20 15:01:49.329 [info] Extracted extension to file:///home/andojas/.vscode/extensions/vscjava.vscode-java-test-0.42.0: vscjava.vscode-java-test
+2024-08-20 15:01:49.331 [info] Renamed to /home/andojas/.vscode/extensions/vscjava.vscode-java-test-0.42.0
+2024-08-20 15:01:49.344 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:49.345 [info] Marked extension as uninstalled vscjava.vscode-java-test-0.41.1
+2024-08-20 15:01:51.996 [info] Extension signature verification result for vscjava.vscode-gradle: UnknownError. Executed: true. Duration: 6ms.
+2024-08-20 15:01:52.304 [info] Extracted extension to file:///home/andojas/.vscode/extensions/vscjava.vscode-gradle-3.16.4: vscjava.vscode-gradle
+2024-08-20 15:01:52.305 [info] Renamed to /home/andojas/.vscode/extensions/vscjava.vscode-gradle-3.16.4
+2024-08-20 15:01:52.318 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:52.322 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:01:52.322 [info] Extension installed successfully: vscjava.vscode-gradle vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:01:52.385 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-20 15:01:54.562 [info] Extension signature verification result for angular.ng-template: UnknownError. Executed: true. Duration: 9ms.
+2024-08-20 15:01:55.000 [info] Extracted extension to file:///home/andojas/.vscode/extensions/angular.ng-template-18.2.0: angular.ng-template
+2024-08-20 15:01:55.001 [info] Renamed to /home/andojas/.vscode/extensions/angular.ng-template-18.2.0
+2024-08-20 15:01:55.011 [info] Marked extension as uninstalled angular.ng-template-18.1.2
+2024-08-20 15:01:55.019 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:01:55.023 [info] Extension installed successfully: angular.ng-template vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:01:55.080 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-20 15:02:06.060 [info] Extension signature verification result for redhat.java: UnknownError. Executed: true. Duration: 9ms.
+2024-08-20 15:02:06.905 [info] Extracted extension to file:///home/andojas/.vscode/extensions/redhat.java-1.33.0-linux-x64: redhat.java
+2024-08-20 15:02:06.920 [info] Renamed to /home/andojas/.vscode/extensions/redhat.java-1.33.0-linux-x64
+2024-08-20 15:02:06.939 [info] Marked extension as uninstalled redhat.java-1.32.0-linux-x64
+2024-08-20 15:02:06.947 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:02:06.951 [info] Extension installed successfully: redhat.java vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:02:06.952 [info] Finished waiting for already requested installing extension redhat.java vscjava.vscode-java-test vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:02:06.952 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:02:07.011 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-20 15:02:09.067 [info] Extension signature verification result for ms-vscode.cpptools: UnknownError. Executed: true. Duration: 13ms.
+2024-08-20 15:02:10.372 [info] Extracted extension to file:///home/andojas/.vscode/extensions/ms-vscode.cpptools-1.21.6-linux-x64: ms-vscode.cpptools
+2024-08-20 15:02:10.386 [info] Renamed to /home/andojas/.vscode/extensions/ms-vscode.cpptools-1.21.6-linux-x64
+2024-08-20 15:02:10.408 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:02:10.409 [info] Marked extension as uninstalled ms-vscode.cpptools-1.21.4-linux-x64
+2024-08-20 15:02:10.414 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/andojas/.vscode/extensions/extensions.json
+2024-08-20 15:02:10.473 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/andojas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-08-20 15:06:43.547 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:11:43.600 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:16:43.787 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:21:43.828 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:26:43.871 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:31:43.922 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:36:43.971 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:41:44.014 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:46:44.056 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 15:51:44.093 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 16:53:54.363 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 16:58:54.410 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:03:54.457 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:08:54.503 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:13:54.689 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:18:54.732 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:23:54.770 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:28:54.820 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:33:54.866 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:38:54.907 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:43:54.951 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:48:54.998 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:53:55.038 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 17:58:55.071 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:03:55.113 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:08:55.156 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:13:55.338 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:18:55.383 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:23:55.428 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:28:55.471 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:33:55.515 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:38:55.559 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:43:55.601 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:48:55.646 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:53:55.691 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 18:58:55.736 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 19:47:16.254 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 19:52:16.296 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 19:57:16.339 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:02:16.390 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:07:16.436 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:12:16.473 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:17:16.678 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:22:16.722 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:27:16.776 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:32:16.823 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:37:16.868 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:42:16.911 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:47:16.956 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:52:17.006 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 20:57:17.056 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:02:17.099 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:07:17.135 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:12:17.176 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:17:17.365 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:22:17.402 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:27:17.438 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:32:17.468 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:37:17.501 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:42:17.537 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:47:17.570 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:52:17.603 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 21:57:17.634 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:02:17.665 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:07:17.698 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:12:17.730 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:17:17.914 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:22:17.951 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:27:17.983 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:32:18.014 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:37:18.045 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:42:18.088 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:47:18.125 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:52:18.157 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 22:57:18.190 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 23:02:18.223 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 23:07:18.255 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-20 23:12:18.287 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:27:40.622 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:32:40.668 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:37:40.708 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:42:40.750 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:47:40.803 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:52:40.855 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 15:57:40.898 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:02:40.943 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:07:40.982 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:12:41.021 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:17:41.193 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:22:41.236 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:27:41.279 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:32:41.324 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:37:41.366 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-21 16:42:41.406 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 11:51:05.953 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 11:56:05.995 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:01:06.029 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:06:06.062 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:11:06.096 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:16:06.277 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:21:06.310 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:26:06.341 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:31:06.375 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:36:06.408 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:48:06.358 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:53:06.394 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 12:58:06.436 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:03:06.483 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:08:06.527 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:13:06.568 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:18:06.803 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:23:06.848 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:52:56.181 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 13:57:56.222 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 14:02:56.258 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 14:07:56.296 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 14:12:56.335 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 14:17:56.545 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 14:22:56.591 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-08-22 14:27:56.634 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.

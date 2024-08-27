@@ -1,0 +1,33 @@
+2024-07-14 23:23:30.098 [info] update#setState idle
+2024-07-14 23:23:59.023 [info] Extension host with pid 20537 exited with code: 0, signal: unknown.
+2024-07-14 23:23:59.024 [error] [UtilityProcess id: 2, type: extensionHost, pid: 20537]: crashed with code 134 and reason 'crashed'
+2024-07-14 23:24:00.099 [info] update#setState checking for updates
+2024-07-14 23:24:00.217 [info] update#setState idle
+2024-07-14 23:25:04.043 [error] Blocked vscode-webview request vscode-webview://0asbvmb94rh83o0trlpfhgg5cvfbt916ko689at9acgecutjkmf2/index.html?id=cab95f45-a509-49ac-a65b-ce9e7547c02d&origin=b7f90fce-4df1-4d73-8690-fdde063dcb18&swVersion=4&extensionId=undefined_publisher.dahu&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-07-14 23:25:36.878 [info] Extension host with pid 20627 exited with code: 0, signal: unknown.
+2024-07-14 23:25:36.879 [error] [UtilityProcess id: 3, type: extensionHost, pid: 20627]: crashed with code 15 and reason 'killed'
+2024-07-15 16:05:32.706 [info] Extension host with pid 22660 exited with code: 0, signal: unknown.
+2024-07-15 16:12:14.642 [info] Extension host with pid 19678 exited with code: 0, signal: unknown.
+2024-07-15 16:26:29.236 [info] update#setState checking for updates
+2024-07-15 16:26:29.545 [info] update#setState idle
+2024-07-15 17:26:29.237 [info] update#setState checking for updates
+2024-07-15 17:26:29.507 [info] update#setState idle
+2024-07-15 18:26:29.243 [info] update#setState checking for updates
+2024-07-15 18:26:39.409 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109791)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-07-15 18:26:39.411 [info] update#setState idle
+2024-07-15 19:26:29.248 [info] update#setState checking for updates
+2024-07-15 19:26:29.860 [info] update#setState idle
+2024-07-15 20:26:29.252 [info] update#setState checking for updates
+2024-07-15 20:26:29.709 [info] update#setState idle
+2024-07-15 21:26:29.256 [info] update#setState checking for updates
+2024-07-15 21:26:29.652 [info] update#setState idle
+2024-07-15 22:26:29.260 [info] update#setState checking for updates
+2024-07-15 22:26:29.741 [info] update#setState idle
+2024-07-15 23:26:29.600 [info] update#setState checking for updates
+2024-07-15 23:26:30.082 [info] update#setState idle
+2024-07-16 10:21:08.290 [info] update#setState checking for updates
+2024-07-16 10:21:08.589 [info] update#setState idle
+2024-07-16 11:21:08.293 [info] update#setState checking for updates
+2024-07-16 11:21:08.538 [info] update#setState idle

@@ -1,13 +1,12 @@
 * {
-  font-family: Material Design Icons, JetBrainsMono Nerd Font;
-  font-size: 10px;
-  font-weight: bolder;
+  /* font-family: Material Design Icons, JetBrainsMono Nerd Font; */
+  font-family: SauceCodePro Nerd Font;
 }
 
 window#waybar {
   background-color: transparent;
-  color: #ffffff;
-
+  color: #1f2529;
+  font-size: 11pt;
 }
 
 window#waybar.hidden {
@@ -15,7 +14,7 @@ window#waybar.hidden {
 }
 
 #window {
-  color: #64727d;
+  color: #6e8a95;
 }
 
 #clock,
@@ -32,21 +31,13 @@ window#waybar.hidden {
 }
 
 #cpu {
-  color: #6c71c4;
+  color: #7b9d9c;
   border-radius: 8px 8px 8px 8px;
 }
 
 #backlight {
-  color: #2aa198;
+  color: #7b9d9c;
   border-radius: 8px 8px 8px 8px;
-}
-
-#memory,
-#cpu,
-#backlight,
-#pulseaudio,
-#network {
-  font-size: 16px;
 }
 
 @keyframes button_activate {
@@ -61,16 +52,15 @@ window#waybar.hidden {
 
 #workspaces button {
   border: none;
-  color: #268bd2;
-  font-weight: bolder;
-  padding: 3px;
+  color: #c2b7ac;
+  padding: 2px 4px 2px 4px;
+  margin-left: 4px;
   background: transparent;
   box-shadow: none;
 }
 
 #workspaces button.active {
-  color: #268bd2;
-  animation: button_activate .2s ease-in-out;
+  color: #c2b7ac;
 }
 
 #workspaces button.urgent {
@@ -88,11 +78,9 @@ window#waybar.hidden {
 }
 
 #workspaces button.current_output.focused{
-  background: #2AA198;
-  color: #ffffff;
+  background: #7b9d9c;
+  color: #000000;
 }
-
-
 
 #workspaces,
 #custom-ibus,
@@ -118,11 +106,10 @@ window#waybar.hidden {
   margin-top: 5px;
   margin-bottom: 0px;
   margin-right: 10px;
-  font-size: 13px;
 }
 
 #workspaces {
-  padding-right: 10px;
+  padding-right: 2px;
   border-radius: 0px 8px 8px 0px;
   margin-left: -10px;
 }
@@ -131,17 +118,15 @@ window#waybar.hidden {
   padding-right: 7px;
   padding-left: 7px;
   margin-left: 5px;
-  font-size: 15px;
   border-radius: 8px 0px 0px 8px;
   color: #1793d1;
 }
 
 #pulseaudio {
   /*color: #268bd2;*/
-  color: #a55377;
+  color: #6e8a95;
   padding-left: 12px;
   padding-right: 12px;
-  font-size: 13px;
   border-radius: 6px 8px 8px 6px;
   /*margin-left: -5px;*/
 }
@@ -149,51 +134,46 @@ window#waybar.hidden {
   color: #d9c793;
   padding-left: 12px;
   padding-right: 12px;
-  font-size: 13px;
   border-radius: 6px 8px 8px 6px;
 }
 #custom-weather{
   padding-left: 12px;
   padding-right: 12px;
-  font-size: 13px;
   border-radius: 6px 8px 8px 6px;
 }
 #mpd{
   color: #d9c793;
   padding-left: 12px;
   padding-right: 12px;
-  font-size: 13px;
   border-radius: 6px 8px 8px 6px;
 }
 
 #pulseaudio.muted {
-  color: #fb958b;
+  color: #c2b7ac;
   padding-left: 10px;
-  font-size: 13px;
   border-radius: 6px 8px 8px 6px;
 }
 
 #backlight {
   /*color: #8a909e;*/
-  padding-right: 12px;
+  color: #7b9d9c;
+  color: #7b9d9c;
   padding-left: 12px;
   border-radius: 8px 6px 6px 8px;
   
-  font-size: 13px;
 }
 
 #network {
   padding-left: 0.2em;
-  color: #268bd2;
+  color: #6e8a95;
   border-radius: 8px 6px 6px 8px;
   padding-left: 12px;
   padding-right: 14px;
-  font-size: 13px;
   /*margin-right: -5px;*/
 }
 
 #network.disconnected {
-  color: #fb958b;
+  color: #c2b7ac;
 }
 
 #custom-powermenu {
@@ -206,33 +186,29 @@ window#waybar.hidden {
 }
 
 #battery {
-  color: #8fbcbb;
+  color: #7b9d9c;
   border-radius: 8px 0px 0px 8px;
   padding-right: 8px;
   padding-left: 12px;
-  font-size: 14px;
 }
 
 #battery.critical,
 #battery.warning,
 #battery.full,
 #battery.plugged {
-  color: #91ffc3;
+  color: #8fbcbb;
   padding-left: 6px;
   padding-right: 12px;
-  font-size: 14px;
 }
 
 #battery.charging {
-  color: #87bb82;
-  font-size: 14px;
+  color: #91ffc3;
   padding-right: 13px;
   padding-left: 8px;
 }
 
 #battery.full,
 #battery.plugged {
-  font-size: 14px;
   padding-right: 10px;
 }
 
@@ -248,7 +224,7 @@ window#waybar.hidden {
 }
 
 #battery.critical:not(.charging) {
-  color: #fb958b;
+  color: #87bb82;
 }
 
 #custom-lock {
@@ -260,10 +236,7 @@ window#waybar.hidden {
 }
 
 #clock {
-  color: #ffffff;
-  font-family: JetBrainsMono Nerd Font;
-  font-size: 12px;
-  font-weight: bolder;
+  color: #c2b7ac;
   margin-right: 10px;
   border-radius: 8px;
 }
@@ -287,7 +260,6 @@ label:focus {
   margin-right: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  font-size: 20px;
   border-radius: 8px 8px 8px 8px;
 }
 

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "INES_prj",
+			"path": "../../../../Documents/PlatformIO/Projects/INES_prj"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"editor.codeActionsOnSave": {}
+	}
+}

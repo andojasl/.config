@@ -1,0 +1,6 @@
+2024-07-28 19:52:40.589 [info] update#setState idle
+2024-07-28 19:53:10.591 [info] update#setState checking for updates
+2024-07-28 19:53:10.705 [info] update#setState idle
+2024-07-28 19:58:56.059 [error] [UtilityProcess type: shared-process, pid: 22549]: crashed with code 134 and reason 'crashed'
+2024-07-28 19:58:58.285 [info] Extension host with pid 23886 exited with code: 134, signal: unknown.
+2024-07-28 19:58:58.286 [error] [UtilityProcess id: 2, type: extensionHost, pid: 23886]: crashed with code 134 and reason 'crashed'

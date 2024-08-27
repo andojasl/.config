@@ -1,0 +1,21 @@
+font=Roboto 10
+default-timeout=5000
+background-color=#121212FF
+border-color=#c4c4c4FF
+progress-color=#6e8a95
+text-color=#dadadaFF
+layer=overlay
+default-timeout=4
+
+[summary=Volume]
+format=<b>%s</b>\n%b
+group-by=app-name
+
+[summary="Volume (muted)"]
+format=<b>%s</b>\n%b
+group-by=app-name
+progress-color=#e78284
+[summary=Brightness]
+format=<b>%s</b>
+group-by=summary
+

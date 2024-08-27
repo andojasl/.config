@@ -1,0 +1,6 @@
+2024/08/26-23:09:20.677 4134 Reusing MANIFEST /home/andojas/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/08/26-23:09:20.677 4134 Recovering log #4
+2024/08/26-23:09:20.677 4134 Reusing old log /home/andojas/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/000004.log 
+2024/08/26-23:09:44.029 4134 Level-0 table #8: started
+2024/08/26-23:09:44.053 4134 Level-0 table #8: 2420823 bytes OK
+2024/08/26-23:09:44.055 4134 Delete type=0 #4

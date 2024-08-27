@@ -1,0 +1,30 @@
+2024/03/22-10:06:30.728 1301c Reusing MANIFEST /home/andojas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/22-10:06:30.729 1301c Recovering log #3
+2024/03/22-10:06:30.734 1301c Reusing old log /home/andojas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/03/22-10:06:32.305 1301c Level-0 table #5: started
+2024/03/22-10:06:32.313 1301c Level-0 table #5: 643623 bytes OK
+2024/03/22-10:06:32.314 1301c Delete type=0 #3
+2024/03/22-10:06:32.315 1301c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/22-10:06:32.331 1301e Level-0 table #7: started
+2024/03/22-10:06:32.332 1301e Level-0 table #7: 9116 bytes OK
+2024/03/22-10:06:32.333 1301e Delete type=0 #4
+2024/03/22-10:06:32.333 1301e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/22-10:06:32.333 1301e Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 3417 : 1
+2024/03/22-10:06:32.333 1301e Compacting 1@1 + 1@2 files
+2024/03/22-10:06:32.335 1301e Generated table #8@1: 501 keys, 22232 bytes
+2024/03/22-10:06:32.335 1301e Compacted 1@1 + 1@2 files => 22232 bytes
+2024/03/22-10:06:32.336 1301e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/22-10:06:32.336 1301c Manual compaction at level-1 from '\x00\x0f\x00\x00\xc8\x05\x00m\x00e\x00d\x00i\x00a' @ 3417 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/22-10:06:32.680 1301e Level-0 table #10: started
+2024/03/22-10:06:32.681 1301e Level-0 table #10: 40466 bytes OK
+2024/03/22-10:06:32.683 1301e Delete type=2 #5
+2024/03/22-10:06:32.683 1301e Delete type=0 #6
+2024/03/22-10:06:32.683 1301e Delete type=2 #7
+2024/03/22-10:06:32.683 13018 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/22-10:06:32.683 1301e Manual compaction at level-1 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00@\x02\x97V\xe6xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 3821 : 1
+2024/03/22-10:06:32.683 1301e Compacting 1@1 + 1@2 files
+2024/03/22-10:06:32.684 1301e Generated table #11@1: 397 keys, 47595 bytes
+2024/03/22-10:06:32.684 1301e Compacted 1@1 + 1@2 files => 47595 bytes
+2024/03/22-10:06:32.685 1301e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/22-10:06:32.685 1301e Delete type=2 #10
+2024/03/22-10:06:32.685 13018 Manual compaction at level-1 from '\x00\x0b\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00@\x02\x97V\xe6xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 3821 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

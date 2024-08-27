@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ESP",
+			"path": "/home/andojas/Documents/PlatformIO/Projects/ESP"
+		},
+		{
+			"name": "INES_prj",
+			"path": "../../../../Documents/PlatformIO/Projects/INES_prj"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	}
+}

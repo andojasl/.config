@@ -1,0 +1,33 @@
+[Info  - 8:28:27 PM] ESLint server is starting.
+Debugger listening on ws://127.0.0.1:6011/ac00b0fa-44c1-48d3-9da7-5cc8e88b1035
+For help, see: https://nodejs.org/en/docs/inspector
+
+<--- Last few GCs --->
+
+[35205:0x3874004a4000]       49 ms: Mark-Compact (reduce) 0.7 (3.2) -> 0.7 (2.2) MB, pooled: 0 MB, 0.68 / 0.00 ms  (average mu = 0.440, current mu = 0.025) last resort; GC in old space requested
+[35205:0x3874004a4000]       49 ms: Mark-Compact (reduce) 0.7 (2.2) -> 0.7 (2.2) MB, pooled: 0 MB, 0.59 / 0.00 ms  (average mu = 0.289, current mu = 0.008) last resort; GC in old space requested
+
+
+<--- JS stacktrace --->
+
+
+
+#
+# Fatal JavaScript out of memory: CALL_AND_RETRY_LAST
+#
+[Error - 8:28:27 PM] Server process exited with signal SIGTRAP.
+[Error - 8:28:27 PM] Server initialization failed.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+[Info  - 8:28:27 PM] Connection to server got closed. Server will restart.
+true
+[Info  - 8:28:27 PM] ESLint server stopped.
+[Info  - 8:28:27 PM] ESLint server is starting.
+[Info  - 8:28:27 PM] ESLint server stopped.
+[Error - 8:28:27 PM] ESLint client: couldn't create connection to server.
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
+Debugger listening on ws://127.0.0.1:6011/364deee9-c797-4528-85ff-c8ed1ffcdfe7
+For help, see: https://nodejs.org/en/docs/inspector
+[Info  - 8:28:27 PM] ESLint server running in node v20.9.0
+[Info  - 8:28:27 PM] ESLint server is running.

@@ -1,0 +1,54 @@
+
+  h2{
+    align-self: center;
+  }
+  
+  .general {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start of the container */
+  }
+
+  button {
+    align-self: flex-end;
+    background-color: grey;
+    border: none;
+  }
+  .color-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items vertically within each color-item */
+    text-align: center; /* Center text horizontally within each color-item */
+  }
+  .color-box {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+  }
+  
+  input[type="text"] {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .color-boxes {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping to a new line if space is limited */
+    gap: 10px; /* Adds space between items */
+  }
+  
+  
+  .pagination-buttons {
+    margin-top: 10px;
+ 
+  }
+  
+  .pagination-buttons button {
+    margin-right: 10px;
+    font-size: large;
+    font-weight: bold;
+    justify-self: center;
+  }
+  
+  

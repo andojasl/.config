@@ -1,0 +1,11 @@
+.ColorPicker {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  h3 {
+    font-weight: normal;
+    font-size: 20px;
+  }
+}

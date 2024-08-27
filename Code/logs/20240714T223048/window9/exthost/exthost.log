@@ -1,0 +1,50 @@
+2024-07-14 23:19:58.689 [info] Extension host with pid 18790 started
+2024-07-14 23:19:58.689 [info] Skipping acquiring lock for /home/andojas/.config/Code/User/workspaceStorage/c1504371bec39be725b0bbbc0e25b337.
+2024-07-14 23:19:58.698 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-14 23:19:58.709 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-07-14 23:19:58.860 [info] ExtensionService#_doActivateExtension undefined_publisher.dahu, startup: false, activationEvent: 'onCommand:dahu.start-webview'
+2024-07-14 23:19:58.958 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-07-14 23:19:59.006 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-07-14 23:19:59.057 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-07-14 23:19:59.079 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-14 23:19:59.088 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-14 23:19:59.121 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-14 23:19:59.184 [warning] undefined_publisher.dahu created a webview without a content security policy: https://aka.ms/vscode-webview-missing-csp
+2024-07-14 23:19:59.227 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-07-14 23:19:59.227 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-07-14 23:19:59.363 [info] Eager extensions activated
+2024-07-14 23:19:59.364 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-14 23:19:59.366 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-14 23:19:59.378 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-07-14 23:20:00.439 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:237953)
+	at Object.dispose (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:293374)
+	at w.handleConnectionClosed (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:293780)
+	at w.handleConnectionClosed (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:462334)
+	at /usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:293523
+	at o.invoke (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:239688)
+	at s.fire (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:240453)
+	at ne (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:226176)
+	at o.invoke (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:239688)
+	at s.fire (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:240453)
+	at f.fireClose (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:248440)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:260786)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)
+	at Pipe.callbackTrampoline (node:internal/async_hooks:130:17)
+2024-07-14 23:20:00.442 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at w.shutdown (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:288612)
+	at w.shutdown (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:461927)
+	at w.stop (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:288188)
+	at w.doInitialize (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:288007)
+	at async w.start (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:284573)
+	at async S (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:523328)
+	at async t.startClient (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:517808)
+	at async e.activate (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:586056)
+	at async c.n (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:6384)
+	at async c.m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:6347)
+	at async c.l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:5804)
+2024-07-14 23:20:41.771 [warning] undefined_publisher.dahu created a webview without a content security policy: https://aka.ms/vscode-webview-missing-csp

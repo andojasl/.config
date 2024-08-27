@@ -1,0 +1,5 @@
+2024/08/26-23:07:42.434 4 Reusing MANIFEST /home/andojas/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/08/26-23:07:42.439 4 Recovering log #61
+2024/08/26-23:07:42.439 4 Reusing old log /home/andojas/.config/chromium/Default/Local Storage/leveldb/000061.log 
+2024/08/26-23:08:24.695 7 Level-0 table #65: started
+2024/08/26-23:08:24.702 7 Level-0 table #65: 333838 bytes OK

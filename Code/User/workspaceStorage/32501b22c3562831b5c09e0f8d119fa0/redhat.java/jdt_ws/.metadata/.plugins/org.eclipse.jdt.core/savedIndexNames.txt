@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+/home/andojas/.config/Code/User/workspaceStorage/32501b22c3562831b5c09e0f8d119fa0/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+1640408339.index
+331918113.index
+1865797976.index
+3745799178.index
+3842426239.index
+1071853205.index
+4172201419.index
+2973578894.index
+1629773590.index
+124232454.index
+2210441703.index
+2021028757.index
+2765996372.index
+2162526024.index
+1773608627.index
+92343875.index
+826163554.index
+2850551909.index
+2759997516.index

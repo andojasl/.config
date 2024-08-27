@@ -1,0 +1,13 @@
+2024-07-15 16:05:10.539 [info] Started local extension host with pid 22660.
+2024-07-15 16:05:10.929 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-07-15 16:05:13.315 [info] [perf] Render performance baseline is 31ms
+2024-07-15 16:05:13.633 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-07-15 16:05:33.402 [info] Started local extension host with pid 22769.
+2024-07-15 16:05:33.920 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-07-15 16:05:36.117 [info] [perf] Render performance baseline is 15ms
+2024-07-15 16:05:36.455 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.
+2024-07-16 09:30:00.193 [warning] Failed to fetch chat participant registry Offline
+2024-07-16 10:06:07.963 [error] [text file model] handleSaveError(654) - exit - resulted in a save error: Error: Unable to write file '/home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp' (Error: File Modified Since) file:///home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp
+2024-07-16 10:06:08.163 [error] [text file model] handleSaveError(654) - exit - resulted in a save error: Error: Unable to write file '/home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp' (Error: File Modified Since) file:///home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp
+2024-07-16 10:07:23.060 [error] [text file model] handleSaveError(654) - exit - resulted in a save error: Error: Unable to write file '/home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp' (Error: File Modified Since) file:///home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp
+2024-07-16 10:07:34.390 [error] [text file model] handleSaveError(655) - exit - resulted in a save error: Error: Unable to write file '/home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp' (Error: File Modified Since) file:///home/andojas/Documents/PlatformIO/Projects/INES_prj/src/main.cpp

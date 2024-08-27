@@ -1,0 +1,6 @@
+2024-07-28 20:28:17.747 [info] Extension host with pid 34921 started
+2024-07-28 20:28:17.747 [info] Skipping acquiring lock for /home/andojas/.config/Code/User/workspaceStorage/c1504371bec39be725b0bbbc0e25b337.
+2024-07-28 20:28:17.762 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-28 20:28:17.778 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2024-07-28 20:28:17.947 [info] ExtensionService#_doActivateExtension undefined_publisher.dahu, startup: false, activationEvent: 'onCommand:dahu.start-webview'
+2024-07-28 20:28:18.108 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git

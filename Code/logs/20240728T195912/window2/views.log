@@ -1,0 +1,13 @@
+2024-07-28 19:59:54.837 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-07-28 19:59:54.837 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-07-28 19:59:54.837 [info] Added views:terminal in terminal
+2024-07-28 19:59:54.837 [info] Added views:outline in workbench.view.explorer
+2024-07-28 19:59:54.837 [info] Added views:workbench.scm in workbench.view.scm
+2024-07-28 19:59:54.837 [info] Added views:workbench.view.search in workbench.view.search
+2024-07-28 19:59:54.837 [info] Added views:timeline in workbench.view.explorer
+2024-07-28 19:59:54.837 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-07-28 19:59:54.914 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-07-28 19:59:55.224 [info] Added views:platformio-ide.quickAccess in workbench.view.extension.platformio
+2024-07-28 19:59:55.225 [info] Added views:platformio-debug.peripherals,platformio-debug.registers,platformio-debug.memory,platformio-debug.disassembly in workbench.view.debug
+2024-07-28 19:59:55.469 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-07-28 19:59:56.362 [info] Added views:workbench.panel.repl.view in workbench.panel.repl

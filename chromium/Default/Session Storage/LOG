@@ -1,0 +1,18 @@
+2024/08/26-23:08:27.455 4 Reusing MANIFEST /home/andojas/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/08/26-23:08:27.455 4 Recovering log #11
+2024/08/26-23:08:27.456 4 Reusing old log /home/andojas/.config/chromium/Default/Session Storage/000011.log 
+2024/08/26-23:09:47.356 4 Level-0 table #15: started
+2024/08/26-23:09:47.358 4 Level-0 table #15: 30726 bytes OK
+2024/08/26-23:09:47.361 4 Delete type=0 #11
+2024/08/26-23:11:38.658 5 Level-0 table #17: started
+2024/08/26-23:11:38.676 5 Level-0 table #17: 55454 bytes OK
+2024/08/26-23:11:38.680 5 Delete type=0 #14
+2024/08/26-23:11:38.680 5 Compacting 4@0 + 1@1 files
+2024/08/26-23:11:38.687 5 Generated table #18@0: 255 keys, 74306 bytes
+2024/08/26-23:11:38.687 5 Compacted 4@0 + 1@1 files => 74306 bytes
+2024/08/26-23:11:38.688 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/26-23:11:38.690 5 Delete type=2 #7
+2024/08/26-23:11:38.690 5 Delete type=2 #9
+2024/08/26-23:11:38.690 5 Delete type=2 #12
+2024/08/26-23:11:38.690 5 Delete type=2 #15
+2024/08/26-23:11:38.690 5 Delete type=2 #17

@@ -1,0 +1,9 @@
+2024/08/26-23:09:52.713 4134 Reusing MANIFEST /home/andojas/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/08/26-23:09:52.714 4134 Recovering log #7
+2024/08/26-23:09:52.716 4134 Reusing old log /home/andojas/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/000007.log 
+2024/08/26-23:09:52.722 4135 Compacting 1@1 + 1@2 files
+2024/08/26-23:09:52.736 4135 Generated table #10@1: 4244 keys, 1540530 bytes
+2024/08/26-23:09:52.736 4135 Compacted 1@1 + 1@2 files => 1540530 bytes
+2024/08/26-23:09:52.737 4135 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/26-23:09:52.738 4135 Delete type=2 #5
+2024/08/26-23:09:52.738 4135 Delete type=2 #8

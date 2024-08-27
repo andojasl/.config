@@ -1,0 +1,6 @@
+2024/03/16-20:06:07.957 2e7c Reusing MANIFEST /home/andojas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-20:06:07.957 2e7c Recovering log #3
+2024/03/16-20:06:07.958 2e7c Reusing old log /home/andojas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
+2024/03/16-20:49:32.292 2e7c Level-0 table #5: started
+2024/03/16-20:49:32.309 2e7c Level-0 table #5: 2509112 bytes OK
+2024/03/16-20:49:32.311 2e7c Delete type=0 #3

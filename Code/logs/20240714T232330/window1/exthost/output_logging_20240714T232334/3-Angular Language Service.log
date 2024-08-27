@@ -1,0 +1,40 @@
+All workspace roots are using versions of Angular that do not support @let syntax. @let syntax parsing in templates will be disabled.
+Using Angular version 17.3.10.
+[Info  - 11:23:35 PM] Angular language server process ID: 19811
+[Info  - 11:23:35 PM] Imported typescript/lib/tsserverlibrary is version 5.4.5.
+[Info  - 11:23:35 PM] Using @angular/language-service v18.1.0 from /home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/@angular/language-service/index.js
+[Info  - 11:23:35 PM] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 11:23:42 PM] Enabling language service for /home/andojas/Documents/dahu/tsconfig.json.
+
+<--- Last few GCs --->
+
+[19811:0x231c004a4000]     8121 ms: Mark-Compact (reduce) 164.0 (184.6) -> 163.9 (169.6) MB, pooled: 0 MB, 30.49 / 0.00 ms  (average mu = 0.043, current mu = 0.009) last resort; GC in old space requested
+[19811:0x231c004a4000]     8152 ms: Mark-Compact (reduce) 163.9 (169.6) -> 163.8 (169.4) MB, pooled: 0 MB, 30.26 / 0.00 ms  (average mu = 0.022, current mu = 0.000) last resort; GC in old space requested
+
+
+<--- JS stacktrace --->
+
+FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory
+[Info  - 11:23:43 PM] Connection to server got closed. Server will restart.
+[Error - 11:23:43 PM] Request textDocument/codeLens failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/connection.js:1044:27)
+	at Object.dispose (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-languageclient/lib/common/client.js:73:35)
+	at LanguageClient.handleConnectionClosed (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-languageclient/lib/common/client.js:2424:42)
+	at LanguageClient.handleConnectionClosed (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-languageclient/lib/node/main.js:155:15)
+	at closeHandler (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-languageclient/lib/common/client.js:2411:18)
+	at CallbackList.invoke (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+	at Emitter.fire (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+	at closeHandler (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/connection.js:256:26)
+	at CallbackList.invoke (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+	at Emitter.fire (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+	at IPCMessageReader.fireClose (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/common/messageReader.js:40:27)
+	at ChildProcess.<anonymous> (/home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/vscode-jsonrpc/lib/node/main.js:33:45)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+[Info  - 11:23:43 PM] Angular language server process ID: 20162
+[Info  - 11:23:43 PM] Imported typescript/lib/tsserverlibrary is version 5.4.5.
+[Info  - 11:23:43 PM] Using @angular/language-service v18.1.0 from /home/andojas/.vscode/extensions/angular.ng-template-18.1.2/node_modules/@angular/language-service/index.js
+[Info  - 11:23:43 PM] Logging is turned off. To enable, run command 'Open Angular server log'.
+[Info  - 11:23:44 PM] Enabling language service for /home/andojas/Documents/dahu/tsconfig.json.

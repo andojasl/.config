@@ -1,0 +1,15 @@
+button {
+    background: rgb(108, 108, 255);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 4px;
+    border: none;
+  }
+
+@import url('https://fonts.cdnfonts.com/css/inknut-antiqua');
+h1{
+    margin-left: 20%;
+    color: var(--foreground-color);
+    font-size: 30px;
+    font-weight: bold;
+}

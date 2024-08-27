@@ -1,0 +1,7 @@
+2024/07/16-09:32:21.580 e1fa Reusing MANIFEST /home/andojas/.config/chromium/Default/IndexedDB/https_stichtingfontys.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/16-09:32:21.581 e1fa Recovering log #3
+2024/07/16-09:32:21.581 e1fa Reusing old log /home/andojas/.config/chromium/Default/IndexedDB/https_stichtingfontys.sharepoint.com_0.indexeddb.leveldb/000003.log 
+2024/07/16-09:33:12.462 e1fb Level-0 table #5: started
+2024/07/16-09:33:12.463 e1fb Level-0 table #5: 6033 bytes OK
+2024/07/16-09:33:12.465 e1fb Delete type=0 #3
+2024/07/16-09:33:12.465 e1fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

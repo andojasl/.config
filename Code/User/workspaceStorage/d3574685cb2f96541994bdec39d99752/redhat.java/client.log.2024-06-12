@@ -1,0 +1,108 @@
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-06-12 12:43:10.460'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_ss_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-06-12 12:43:10.712'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-06-12 12:43:10.779'
+}
+{
+  message: 'Jun 12, 2024 12:43:11 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 12:43:11.466'
+}
+{
+  message: 'Jun 12, 2024 12:43:11 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 12:43:11.468'
+}
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-06-12 14:37:11.717'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_ss_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-06-12 14:37:11.983'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-06-12 14:37:12.068'
+}
+{
+  message: 'Jun 12, 2024 2:37:12 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 14:37:12.909'
+}
+{
+  message: 'Jun 12, 2024 2:37:12 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 14:37:12.912'
+}
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-06-12 16:09:40.097'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_ss_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-06-12 16:09:40.313'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-06-12 16:09:40.368'
+}
+{
+  message: 'Jun 12, 2024 4:09:41 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 16:09:41.199'
+}
+{
+  message: 'Jun 12, 2024 4:09:41 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 16:09:41.203'
+}
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-06-12 17:24:50.944'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_ss_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-06-12 17:24:51.049'
+}
+{
+  message: 'Starting Java server with: /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/jre/17.0.11-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/lombok/lombok-1.18.32.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java -Daether.dependencyCollector.impl=bf -jar /home/andojas/.vscode/extensions/redhat.java-1.31.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.800.v20240513-1750.jar -configuration /home/andojas/.config/Code/User/globalStorage/redhat.java/1.31.0/config_linux -data /home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-06-12 17:24:51.154'
+}
+{
+  message: 'Jun 12, 2024 5:24:51 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 17:24:51.736'
+}
+{
+  message: 'Jun 12, 2024 5:24:51 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-06-12 17:24:51.738'
+}

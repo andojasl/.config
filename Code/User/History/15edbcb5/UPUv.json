@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": ["webview/main.ts", "webview/polyfills.ts"],
+  "include": ["webview/**/*.d.ts"],
+  "exclude": ["webview/test.ts", "webview/**/*.spec.ts"]
+}

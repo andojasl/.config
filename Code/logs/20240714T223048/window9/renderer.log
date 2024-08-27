@@ -1,0 +1,8 @@
+2024-07-14 23:19:57.270 [info] Started local extension host with pid 18790.
+2024-07-14 23:19:57.454 [info] Loading development extension at /home/andojas/Documents/dahu
+2024-07-14 23:19:57.460 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-07-14 23:19:57.529 [error] Unable to load file:///home/andojas/Documents/dahu/themes/extensionTheme.json: Problem parsing color theme file: file:///home/andojas/Documents/dahu/themes/extensionTheme.json. Property 'tokenColors' should be either an array specifying colors or a path to a TextMate theme file: Error: Unable to load file:///home/andojas/Documents/dahu/themes/extensionTheme.json: Problem parsing color theme file: file:///home/andojas/Documents/dahu/themes/extensionTheme.json. Property 'tokenColors' should be either an array specifying colors or a path to a TextMate theme file
+    at ie.Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1883:39727)
+    at async Promise.all (index 0)
+2024-07-14 23:19:59.920 [info] [perf] Render performance baseline is 17ms
+2024-07-14 23:20:00.298 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.

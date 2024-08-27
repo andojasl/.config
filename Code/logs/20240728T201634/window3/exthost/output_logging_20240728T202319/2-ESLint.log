@@ -1,0 +1,10 @@
+[Info  - 8:23:20 PM] ESLint server is starting.
+Debugger listening on ws://127.0.0.1:6011/020248ef-199a-43e1-b3b6-cdfcc7cad076
+For help, see: https://nodejs.org/en/docs/inspector
+[Info  - 8:23:20 PM] ESLint server running in node v20.9.0
+[Info  - 8:23:20 PM] ESLint server is running.
+[Error - 8:24:00 PM] Server process exited with signal SIGTERM.
+[Info  - 8:24:00 PM] Connection to server got closed. Server will restart.
+true
+[Info  - 8:24:00 PM] ESLint server stopped.
+[Info  - 8:24:00 PM] ESLint server is starting.

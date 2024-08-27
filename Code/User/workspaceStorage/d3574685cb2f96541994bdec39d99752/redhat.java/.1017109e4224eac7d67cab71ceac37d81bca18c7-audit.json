@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/.1017109e4224eac7d67cab71ceac37d81bca18c7-audit.json",
+    "files": [
+        {
+            "date": 1718188990348,
+            "name": "/home/andojas/.config/Code/User/workspaceStorage/d3574685cb2f96541994bdec39d99752/redhat.java/client.log.2024-06-12",
+            "hash": "1dc86a96eade18e37718de5641944600f0267468820734efbe8d3da4765f6b38"
+        }
+    ],
+    "hashType": "sha256"
+}

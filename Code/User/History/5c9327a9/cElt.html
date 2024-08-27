@@ -1,0 +1,17 @@
+<div class="library-container">
+    <h2>Library</h2>
+    <div *ngIf="themes.length > 0; else noThemes" class="theme-blocks">
+      <div *ngFor="let preset of presets" class="theme-block">
+       <div> {{ preset.name }}</div>
+        <div class="theme-buttons">
+            <button class="theme-button" *ngIf="preset.id !== currentTheme.id" (click)="applyTheme(preset.name)">Apply</button>
+            <button class="theme-button" *ngIf="preset.id === currentTheme.id" (click)="scrollToEditWorkbench()">Edit</button>
+          </div>
+      </div>
+      
+    </div>
+    <ng-template #noThemes>
+      <p class="no-themes">No themes yet :(</p>
+    </ng-template>
+  </div>
+  

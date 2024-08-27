@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-17.0.11.0.9-1.fc40.x86_64" version="17.0.11"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-11.0.23.0.9-1.fc40.x86_64" version="11.0.23"/>
+    <libraryInfo home="/home/andojas/.vscode/extensions/redhat.java-1.30.0-linux-x64/jre/17.0.10-linux-x86_64" version="17.0.10"/>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-21.0.3.0.9-1.fc40.x86_64" version="21.0.3"/>
+    <libraryInfo home="/usr/lib/jvm/java-22-openjdk-22.0.1.0.8-1.rolling.fc40.x86_64" version="22.0.1"/>
+</libraryInfos>

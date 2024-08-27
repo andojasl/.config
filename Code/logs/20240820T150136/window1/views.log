@@ -1,0 +1,15 @@
+2024-08-20 15:01:40.743 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-08-20 15:01:40.743 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-08-20 15:01:40.743 [info] Added views:terminal in terminal
+2024-08-20 15:01:40.743 [info] Added views:outline in workbench.view.explorer
+2024-08-20 15:01:40.743 [info] Added views:workbench.scm in workbench.view.scm
+2024-08-20 15:01:40.743 [info] Added views:workbench.view.search in workbench.view.search
+2024-08-20 15:01:40.743 [info] Added views:timeline in workbench.view.explorer
+2024-08-20 15:01:40.743 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2024-08-20 15:01:40.978 [info] Added views:workbench.debug.variablesView,workbench.debug.watchExpressionsView,workbench.debug.callStackView,workbench.debug.breakPointsView in workbench.view.debug
+2024-08-20 15:01:41.540 [info] Added views:platformio-ide.quickAccess in workbench.view.extension.platformio
+2024-08-20 15:01:41.540 [info] Added views:platformio-debug.peripherals,platformio-debug.registers,platformio-debug.memory,platformio-debug.disassembly in workbench.view.debug
+2024-08-20 15:01:41.644 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-08-20 15:01:42.204 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-08-20 15:01:42.285 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-08-22 14:31:20.777 [info] Removed views:workbench.view.testing from workbench.view.extension.test

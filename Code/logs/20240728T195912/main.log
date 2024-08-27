@@ -1,0 +1,10 @@
+2024-07-28 19:59:12.884 [info] update#setState idle
+2024-07-28 19:59:42.886 [info] update#setState checking for updates
+2024-07-28 19:59:43.000 [info] update#setState idle
+2024-07-28 20:00:26.625 [error] Blocked vscode-webview request vscode-webview://0asbvmb94rh83o0trlpfhgg5cvfbt916ko689at9acgecutjkmf2/index.html?id=1cca86cc-f0cb-4975-9e7b-9b7375adae57&origin=b7f90fce-4df1-4d73-8690-fdde063dcb18&swVersion=4&extensionId=undefined_publisher.dahu&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-07-28 20:00:44.547 [info] Extension host with pid 25173 exited with code: 0, signal: unknown.
+2024-07-28 20:00:44.549 [error] [UtilityProcess id: 2, type: extensionHost, pid: 25173]: crashed with code 15 and reason 'killed'
+2024-07-28 20:02:41.765 [info] Extension host with pid 25985 exited with code: 0, signal: unknown.
+2024-07-28 20:02:41.766 [error] [UtilityProcess id: 3, type: extensionHost, pid: 25985]: crashed with code 15 and reason 'killed'
+2024-07-28 20:05:17.133 [info] Extension host with pid 26597 exited with code: 0, signal: unknown.
+2024-07-28 20:05:17.134 [error] [UtilityProcess id: 4, type: extensionHost, pid: 26597]: crashed with code 15 and reason 'killed'

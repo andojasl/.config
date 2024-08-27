@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/andojas/Documents/dahu"
+		},
+		{
+			"name": "ESP",
+			"path": "/home/andojas/Documents/PlatformIO/Projects/ESP"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	}
+}

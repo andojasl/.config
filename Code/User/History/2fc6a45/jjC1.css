@@ -1,0 +1,10 @@
+.library-container {
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    /* Optional: Add styles to your component */
+    text-align: center; /* Center text */
+    color: aliceblue;
+  }

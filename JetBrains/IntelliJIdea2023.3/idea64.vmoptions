@@ -1,0 +1,4 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/andojas/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=e86fe885-75ad-4398-9481-e34629d740b9
+-Dtoolbox.notification.portFile=/home/andojas/.cache/JetBrains/Toolbox/ports/1673232139.port
