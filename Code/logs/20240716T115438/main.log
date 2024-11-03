@@ -1,6 +1,0 @@
-2024-07-16 11:54:38.630 [info] update#setState idle
-2024-07-16 11:54:43.076 [info] Extension host with pid 4928 exited with code: 0, signal: unknown.
-2024-07-16 11:54:43.077 [error] [UtilityProcess id: 1, type: extensionHost, pid: 4928]: crashed with code 134 and reason 'crashed'
-2024-07-16 11:55:08.632 [info] update#setState checking for updates
-2024-07-16 11:55:09.991 [info] update#setState idle
-2024-07-16 11:56:09.898 [info] Extension host with pid 5000 exited with code: 0, signal: unknown.

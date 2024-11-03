@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+/home/andojas/.config/Code/User/workspaceStorage/be03bdc5636572565a645d5ccef04fee/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

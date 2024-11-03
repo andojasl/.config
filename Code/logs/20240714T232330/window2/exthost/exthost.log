@@ -1,4 +1,0 @@
-2024-07-14 23:23:58.213 [info] Extension host with pid 20537 started
-2024-07-14 23:23:58.213 [info] Skipping acquiring lock for /home/andojas/.config/Code/User/workspaceStorage/c1504371bec39be725b0bbbc0e25b337.
-2024-07-14 23:23:58.416 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-07-14 23:23:58.433 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'

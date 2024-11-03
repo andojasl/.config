@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<dirs>
-    <entry loc="/usr/lib/jvm/java-17-openjdk-17.0.11.0.9-1.fc40.x86_64" stamp="1716541931794"/>
-    <entry loc="/usr/lib/jvm/java-11-openjdk-11.0.23.0.9-1.fc40.x86_64" stamp="1719850817266"/>
-    <entry loc="/home/andojas/.vscode/extensions/redhat.java-1.32.0-linux-x64/jre/17.0.11-linux-x86_64" stamp="1719755677666"/>
-    <entry loc="/usr/lib/jvm/java-21-openjdk-21.0.3.0.9-1.fc40.x86_64" stamp="1716541736336"/>
-    <entry loc="/usr/lib/jvm/java-22-openjdk-22.0.1.0.8-1.rolling.fc40.x86_64" stamp="1716541764352"/>
-</dirs>

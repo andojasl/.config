@@ -1,5 +1,0 @@
-2024-07-14 22:36:09.258 [info] Started local extension host with pid 15370.
-2024-07-14 22:36:09.443 [info] Loading development extension at /home/andojas/Documents/dahu
-2024-07-14 22:36:09.451 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-07-14 22:36:11.891 [info] [perf] Render performance baseline is 15ms
-2024-07-14 22:36:12.327 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.deleteBuildDirOnCleanCconfigure.description.

@@ -1,9 +1,0 @@
-2024-07-15 18:10:28.853 [error] electron #198: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:10:50.766 [error] electron #199: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:13:33.277 [error] electron #201: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:13:54.372 [error] electron #202: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:16:38.726 [error] electron #204: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:17:00.126 [error] electron #205: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:19:51.798 [error] electron #206: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:20:13.869 [error] electron #207: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
-2024-07-15 18:26:39.409 [error] electron #210: https://update.code.visualstudio.com/api/update/linux-x64/stable/f1e16e1e6214d7c44d078b1f0607b2388f29d729 - error undefined net::ERR_INTERNET_DISCONNECTED
